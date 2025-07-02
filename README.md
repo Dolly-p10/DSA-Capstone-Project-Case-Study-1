@@ -74,4 +74,17 @@ This section include examples of Excel formulas used during the project, such as
 
 A clean Excel dashboard was developed to visualize the insights using bar charts for categorical comparisons
 
+![Dashboard 1](https://github.com/user-attachments/assets/473e300a-fa54-4226-82a3-fb06fa9ce352)
+
+![Dashboard 2](https://github.com/user-attachments/assets/abdde1fc-8fca-4ba2-b4e6-8fe5450a5f3a)
+
+![Dashboard 3](https://github.com/user-attachments/assets/e47068ea-69da-406b-a9e8-7389e266804c)
+
+![Dashboard 4](https://github.com/user-attachments/assets/0921ae6a-99a9-46f2-96d9-dcf2be084eff)
+
+
+
+
+
+
 
