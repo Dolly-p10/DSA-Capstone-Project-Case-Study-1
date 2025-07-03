@@ -6,6 +6,10 @@
 
 This Data Analysis project explores Amazon product and customer review data to uncover actionable insights. The goal is to support better decision-making in areas like product improvement, marketing strategy, and customer engagement through structured Excel-based analysis.
 
+### Data Sources
+
+The dataset was sourced from a Digital Learning Management System (LMS) platform as part of a case study project.
+
 ### Project Problem
 
 In a highly competitive e-commerce environment like Amazon, businesses often struggle to interpret massive volumes of product and customer review data effectively. Without proper analysis:
@@ -24,10 +28,6 @@ This project solves that problem by analyzing structured product data to highlig
 - Identify opportunities for product improvement
 - Provide insight to guide marketing strategies
 - Improve customer engagement based on reviews and ratings
-
-### Data Sources
-
-The dataset was sourced from a Digital Learning Management System (LMS) platform as part of a case study project.
 
 ### Data Cleaning & Preparation
 
@@ -57,6 +57,14 @@ Key business questions answered:
 - Identify the top 5 products in terms of rating and number of reviews combined
 - What is the total potential revenue by category?
 - How many products have 50% or more discount?
+
+### Key Insights
+- High-Discount Products Are Common: Over 660 products have a discount of 50% or more, showing aggressive pricing strategies across categories.
+- Review Distribution Is Uneven: Most products have fewer than 8 individual reviews, indicating that review counts are often underrepresented despite high rating_count values.
+- Top Products Have Both High Ratings and Reviews: A handful of products (e.g., B09ZHCJDP1, B0BQ3K23Y1, etc.) stand out by combining 4.7+ average ratings with the highest review counts, ideal for promotional focus.
+- Electronics Dominate in Revenue Potential: Categories like Electronics show the highest total potential revenue, especially where high prices meet high review activity.
+- Ratings Slightly Drop with Higher Discounts: Surprisingly, lower-discounted products have slightly higher average ratings than heavily discounted ones, hinting at a possible trade-off between pricing and perceived quality.
+- Review Quality Differs from Rating Counts: The review_count column derived from actual review_ids gives a more accurate picture of real review volume than the raw rating_count column.
 
 ### Data Analysis Techniques
 
