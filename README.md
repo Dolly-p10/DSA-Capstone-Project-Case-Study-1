@@ -90,7 +90,8 @@ A clean Excel dashboard was developed to visualize the insights using bar charts
 
 ![Dashboard 4](https://github.com/user-attachments/assets/0921ae6a-99a9-46f2-96d9-dcf2be084eff)
 
-
+### Note
+You can find the cleaned dataset, PivotTable outputs, and the final dashboard in the Files section of this repository.
 
 
 
