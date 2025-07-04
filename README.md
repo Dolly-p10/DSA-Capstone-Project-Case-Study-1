@@ -1,4 +1,4 @@
-# DSA-Capstone-Project-Case-Study-1
+# DSA-Capstone-Project-Case-Study-1-Excel
 
 ## Amazon Product Review Analysis
 
